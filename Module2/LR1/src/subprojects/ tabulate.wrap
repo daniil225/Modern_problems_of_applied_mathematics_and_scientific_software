@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://github.com/p-ranav/tabulate.git
+revision = v1.5
+method = cmake
+
+[provide]
+tabulate = tabulate_dep

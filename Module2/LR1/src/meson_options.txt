@@ -1,0 +1,1 @@
+option('triplet', type:'string', value:'x64-linux', description:'name of dir in vcpkg for find lib')
